@@ -49,12 +49,9 @@ pip install pandas numpy scikit-learn metplotlib
 # Step 3: Run the model script
 python babar_model.py
 
-# Example Output:
+# Output:
 # MAE: 2.55
 # MSE: 10.56
 # RMSE: 3.25
-# R² score: 0.98
-# MSE / MAE: 4.137149719127922
-
 # R² score: 0.98
 # MSE / MAE: 4.137149719127922
